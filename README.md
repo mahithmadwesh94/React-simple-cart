@@ -6,7 +6,7 @@ This is a simple React app with Shopping to cart to demonstrate State Management
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/mahithmadwesh94/React-simple-cart/blob/master/screenshot/Capture.PNG)
 
   
 ## Authors
